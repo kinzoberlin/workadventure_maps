@@ -24,7 +24,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"audio01.mp3"
+                 "value":"https:\/\/dnbradio.com\/hi.pls"
                 }],
          "type":"tilelayer",
          "visible":true,
